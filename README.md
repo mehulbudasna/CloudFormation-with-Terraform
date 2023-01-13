@@ -21,7 +21,7 @@
 # Follow Below Steps to RUN Terraform snippet
 
 1. Create folder and Clone this repo.
-2. Change required variable value
+2. Change required parameters value if you want.
 3. Initialize terraform using 
 ```bash
 terraform init
