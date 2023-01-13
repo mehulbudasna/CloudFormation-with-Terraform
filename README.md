@@ -16,7 +16,7 @@
 1. Need to replace AMI ID according to Region.
 2. Need to change Region or Availability zone
 3. Need to replace keyname according to Region.
-4. Need to change VPCCidr,CidrBlock and Myip ( Your Workstation IP to connect  according to you
+4. Need to change VPCCidr,CidrBlock and Myip (Your Workstation IP to connect EC2) according to your network.
 
 ## Follow Below Steps to RUN Terraform snippet
 
@@ -41,5 +41,5 @@ Your infra is ready to use now.
 terraform destroy
 ```
 ## Output
-
+- Cloudformaion stack created with name "networking-stack"
 - EC2 instance created with newly createtd VPC,subnet and SG.
