@@ -1,4 +1,4 @@
-# Terraform snippet for deploying ASG in private subnet behind ALB
+# Terraform snippet for deploying CloudFormation Template
 
 # Prerequisites:
 1. AWS account
