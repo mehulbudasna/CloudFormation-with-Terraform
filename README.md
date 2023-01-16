@@ -42,4 +42,4 @@ terraform destroy
 ```
 ## Output
 - Cloudformaion stack created with name "networking-stack"
-- EC2 instance created with newly createtd VPC,subnet and SG.
+- EC2 instance created with newly created VPC,subnet and SG.
