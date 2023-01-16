@@ -134,13 +134,13 @@ Resources:
           Value: ubuntu
         -
           Key: OwnerContact
-          Value: "@matthewcasperson"
+          Value: "@mehulbudasna"
         -
           Key: Purpose
-          Value: MattC Test Worker
+          Value: Mehul Test Worker
         -
           Key: Source
-          Value: CloudFormation Script in Octopus Deploy
+          Value: CloudFormation Script
 Outputs:
   PublicIp:
     Value:
