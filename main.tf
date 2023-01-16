@@ -124,23 +124,11 @@ Resources:
           Key: Environment
           Value: Test
         -
-          Key: LifeTime
-          Value: Transient
-        -
           Key: Name
           Value:  ubuntu Server Worker
         -
           Key: OS
           Value: ubuntu
-        -
-          Key: OwnerContact
-          Value: "@mehulbudasna"
-        -
-          Key: Purpose
-          Value: Mehul Test Worker
-        -
-          Key: Source
-          Value: CloudFormation Script
 Outputs:
   PublicIp:
     Value:
